@@ -1,0 +1,9 @@
+.form1 {
+  border: 2px solid;
+  background-color: #cea775;
+  width: 400px;
+  height: 300px;
+  padding-left: -10px;
+  padding-right: -10px;
+  padding-bottom: 10px;
+}

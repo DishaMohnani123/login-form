@@ -1,0 +1,78 @@
+p {
+  width: 500px;
+  padding: 10px;
+  border: none;
+  margin: 0;
+}
+
+p:hover {
+  background-color: #e6d9d9;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.Div1 {
+  width: 100px;
+  float: left;
+  height: 100px;
+  margin: 10px 10px 90px 10px;
+  border: none;
+}
+.DivD:hover {
+  background-color: #e6d9d9;
+}
+.DivD {
+  border: solid black;
+  width: 400px;
+
+  height: 200px;
+  margin: 0;
+  float: left;
+}
+.Div2 {
+  width: 200px;
+  float: left;
+  height: 200px;
+  margin: 20px;
+  border: none;
+  line-height: 0.9rem;
+}
+
+label {
+  font-weight: bold;
+}
+
+.button {
+  background-color: #b69cb5;
+  width: 50%;
+  border: 2px solid #dfc9c9;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: #dfc9c9;
+  color: black;
+  border: 2px solid #dfc9c9;
+  height: 50px;
+  width: 50%;
+  float: left;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+  border: none;
+}
+
+.formStart {
+  margin-top: 100px;
+}
